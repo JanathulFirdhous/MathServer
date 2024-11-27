@@ -142,7 +142,7 @@ urlpatterns = [
 
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2024-11-27 221746.png>)
+
 
 
 ## RESULT:
